@@ -1,0 +1,124 @@
+.btn {
+    @apply rounded-md transition-all outline-none
+}
+
+.variantOutline{
+    @apply border !bg-transparent !shadow-none
+}
+
+.variantOutlineDefault{
+    @apply !text-[#3F3F3F] hover:!bg-[#AEAEAE]/10 focus:!bg-[#AEAEAE]/10
+}
+
+.variantOutlinePrimary{
+    @apply !text-[#2962FF] hover:!bg-[#3D5AFE]/10 focus:!bg-[#3D5AFE]/10 
+}
+
+.variantOutlineSecondary{
+    @apply !text-[#455A64] hover:!bg-[#1C313A]/10 focus:!bg-[#1C313A]/10 
+}
+
+.variantOutlineDanger{
+    @apply !text-[#D32F2F] hover:!bg-[#9A0007]/10 focus:!bg-[#9A0007]/10 
+}
+
+.variantTextDefault{
+    @apply !bg-transparent !text-[#3F3F3F] !shadow-none hover:!bg-[#AEAEAE]/10 focus:!bg-[#AEAEAE]/10
+}
+
+.variantTextPrimary{
+    @apply !bg-transparent !text-[#2962FF] !shadow-none hover:!bg-[#2962FF1A]/10  focus:!bg-[#3D5AFE]/10 
+}
+
+.variantTextSecondary{
+    @apply !bg-transparent !text-[#455A64] !shadow-none hover:!bg-[#1C313A]/10  focus:!bg-[#1C313A]/10 
+}
+
+.variantTextDanger{
+    @apply !bg-transparent !text-[#D32F2F] !shadow-none hover:!bg-[#9A0007]/10  focus:!bg-[#9A0007]/10 
+}
+
+
+.disableShadow{
+    @apply !shadow-none
+}
+
+.disable{
+    @apply !cursor-not-allowed !select-none !touch-none !shadow-none
+}
+
+.disableDefault{
+    @apply !bg-[#AEAEAE] hover:!bg-[#AEAEAE]
+}
+
+.disablePrimary{
+    @apply !bg-[#3D5AFE] hover:!bg-[#3D5AFE] !text-white
+}
+
+.disableSecondary{
+    @apply !bg-[#1C313A] hover:!bg-[#1C313A]  !text-white
+}
+
+.disableDanger{
+    @apply !bg-[#9A0007] hover:!bg-[#9A0007] !text-white
+}
+
+.disableOutlineDefault{
+    @apply !text-[#3F3F3F]/50 !border-[#AEAEAE]/50 hover:!bg-transparent focus:!bg-transparent
+}
+
+.disableOutlinePrimary{
+    @apply !text-[#3D5AFE]/50 !border-[#3D5AFE]/50  hover:!bg-transparent focus:!bg-transparent
+}
+
+.disableOutlineSecondary{
+    @apply !text-[#AEAEAE] !border-[#AEAEAE]/50 hover:!bg-transparent focus:!bg-transparent
+}
+
+.disableOutlineDanger{
+    @apply !text-[#9A0007]/50 !border-[#9A0007]/50 hover:!bg-transparent focus:!bg-transparent
+}
+
+.disableTextDefault{
+    @apply !bg-transparent !text-[#3F3F3F]/50 !cursor-not-allowed !select-none !touch-none !shadow-none hover:!bg-transparent focus:!bg-transparent
+}
+.disableTextPrimary{
+    @apply !bg-transparent !text-[#3D5AFE]/50 !cursor-not-allowed !select-none !touch-none !shadow-none hover:!bg-transparent focus:!bg-transparent
+}
+.disableTextSecondary{
+    @apply !bg-transparent !text-[#AEAEAE]/50 !cursor-not-allowed !select-none !touch-none !shadow-none hover:!bg-transparent focus:!bg-transparent
+}
+.disableTextDanger{
+    @apply !bg-transparent !text-[#9A0007]/50 !cursor-not-allowed !select-none !touch-none !shadow-none hover:!bg-transparent focus:!bg-transparent
+}
+
+
+.sizeSM{
+    @apply px-3 py-[6px]
+}
+
+.sizeMD{
+    @apply px-4 py-2
+}
+
+.sizeLG{
+    @apply px-[22px] py-[11px]
+}
+
+
+.colorDefault{
+    @apply bg-[#E0E0E0] hover:bg-[#AEAEAE] focus:bg-[#AEAEAE] text-[#3F3F3F] border-[#E0E0E0] shadow-[0_2px_3px_rgba(51,51,51,0.2)]
+}
+.colorPrimary{
+    @apply bg-[#2962FF] hover:bg-[#0039CB] focus:bg-[#0039CB] text-white border-[#3D5AFE] shadow-[0_2px_3px_rgba(41,98,255,0.2)]
+}
+.colorSecondary{
+    @apply bg-[#455A64] hover:bg-[#1C313A] focus:bg-[#1C313A] text-white border-[#455A64] shadow-[0_2px_3px_rgba(69,90,100,0.2)]
+}
+.colorDanger{
+    @apply bg-[#D32F2F] hover:bg-[#9A0007] focus:bg-[#9A0007] text-white border-[#D32F2F] shadow-[0_2px_3px_rgba(211,47,47,0.2)]
+}
+
+.roundedFull{
+    @apply !rounded-full
+}
