@@ -1,3 +1,76 @@
+# How To Use
+
+#### Variants
+
+`<Button variant="default" />`
+
+![image](./readme-assets/colors.png)
+
+`<Button variant="outline" />`
+
+![image](./readme-assets/variantOutline.png)
+
+`<Button variant="text" />`
+
+![image](./readme-assets/variantText.png)
+
+#### Colors
+
+`<Button color="name" />`
+
+![image](./readme-assets/colors.png)
+
+Colors: <span style="color:#E0E0E0">default,</span> <span style="color:#2962FF">primary,</span> <span style="color:#455A64">secondary,</span> <span style="color:#D32F2F">danger,</span> 
+
+
+#### Sizes
+
+`<Button size=" 'sm' or 'md' or 'lg' " />`
+
+![image](./readme-assets/sizes.png)
+
+
+#### Disable
+
+`<Button disable variant="default" />`
+
+![image](./readme-assets/disableDefault.png)
+
+`<Button disable variant="outline" />`
+![image](./readme-assets/disableOutline.png)
+
+`<Button disable variant="text" />`
+
+![image](./readme-assets/disableText.png)
+
+`<Button disableShadow />`
+
+![image](./readme-assets/disableShadow.png)
+
+#### Icons
+
+`<Button startIcon={<AddShoppingCartIcon />} />`
+
+![image](./readme-assets/startIcon.png)
+
+`<Button endIcon={<AddShoppingCartIcon />} />`
+
+![image](./readme-assets/endIcon.png)
+
+`<Button onlyIcon startIcon={<AddShoppingCartIcon />} />`
+
+![image](./readme-assets/onlyIcon.png)
+
+
+
+#### Rounded
+
+`<Button roundedFull />`
+
+![image](./readme-assets/roundedFull.png)
+
+___
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
