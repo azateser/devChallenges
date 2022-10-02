@@ -6,4 +6,4 @@ This repository contains some challenges from [Dev Challenges](https://devchalle
 
 | Name                      | Live View | Technologies / Approaches |
 |---------------------------|-----------|---------------------------|
-| [Button component](https://github.com/azateser/codewell-Chalange/tree/main/src/01%20Newsletter%20Popup%20Template) |[view](https://azateser.github.io/codewell-Chalange/src/01%20Newsletter%20Popup%20Template/)| HTML / CSS (Tailwind)     |
+| [Button component](https://github.com/azateser/devChallenges/tree/main/button-component) |[view](https://azateser.github.io/devChallenges/button-component/build/)| React / TailwindCSS     |
