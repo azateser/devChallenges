@@ -110,9 +110,9 @@ const Home = () => {
          &&
           todos.map(todo => (
           
-            <div className='flex items-center gap-2 mb-2 justify-between w-full'>
+            <div key={todo.text} className='flex items-center gap-2 mb-2 justify-between w-full'>
             <div className="flex gap-2 items-center">
-            <input onClick={() => toggleComplete(todo.id)} key={todo.id} defaultChecked={todo.completed ? true : false} name={todo.text} id={todo.id} type="checkbox" className='w-4 h-4 cursor-pointer' />
+            <input onClick={() => toggleComplete(todo.id)} defaultChecked={todo.completed ? true : false} name={todo.text} id={todo.id} type="checkbox" className='w-4 h-4 cursor-pointer' />
             <span className={classNames({
               'line-through opacity-75': todo.completed === true
             })}> {todo.text}</span>
@@ -130,9 +130,9 @@ const Home = () => {
         {
           active === 1 &&
           filterActiveTab.map(todo => (
-            <div className='flex items-center gap-2 mb-2 justify-between w-full'>
+            <div key={todo.text} className='flex items-center gap-2 mb-2 justify-between w-full'>
             <div className="flex gap-2 items-center">
-            <input onClick={() => toggleComplete(todo.id)} key={todo.id} defaultChecked={todo.completed ? true : false} name={todo.text} id={todo.id} type="checkbox" className='w-4 h-4 cursor-pointer' />
+            <input onClick={() => toggleComplete(todo.id)} defaultChecked={todo.completed ? true : false} name={todo.text} id={todo.id} type="checkbox" className='w-4 h-4 cursor-pointer' />
             <span className={classNames({
               'line-through opacity-75': todo.completed === true
             })}> {todo.text}</span>
