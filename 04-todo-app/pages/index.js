@@ -14,7 +14,7 @@ const Home = () => {
     const [todos, setTodos] = useState([
       {"id": 1, "text":"Do coding challenges", "completed": false},
       {"id": 2, "text":"Do coding challenges", "completed": false},
-      {"id": 3, "text":"Do coding challenges", "completed": true},
+      {"id": 3, "text":"Do coding challenges", "completed": true}
     ]);
 
     const[filterActiveTab, setFilterActiveTab] = useState();
@@ -25,7 +25,6 @@ const Home = () => {
     
     const allTab = () => {
       setActive(0);
-      
     };
     
     const activeTab = () => {
@@ -55,7 +54,7 @@ const Home = () => {
   const [newTodo, setNewTodo] = useState({})
 
   const handleValue = (event) => {
-    setNewTodo([{id: todos.length + 1, text: event.target.value, check: false}, ...todos ]);
+    setNewTodo([...todos, {id: todos.length + 1, text: event.target.value, check: false} ]);
   }
 
   const addNewTodo = () =>{
