@@ -1,6 +1,25 @@
 # devChallanges
 
+### Front-end Developer
+Become Front-end Developer by building 8 real-life projects, you can use any Front-end frameworks
 
+
+#### For those who want to:
+Practice React, Vue, or other front-end libraries
+
+Become Front-end developer
+
+Building websites with real-life practices
+
+#### Rules:
+
+✅ Use a Front-end Framework and choose any Frameworks or Libraries
+
+✅ Fulfill all the user stories
+
+✅ Follow the design, you can add animations, new pages, empty state,...
+
+🚫 Do not copy existing solutions
 
 
 | Challanges name       | Demo |
