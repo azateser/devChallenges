@@ -36,10 +36,11 @@ Building websites with real-life practices
 
 | Button component       | Demo      | Status      |
 |------------------------|-----------|-------------|
-| Input component        | Live View | :hourglass: |
-| Windbnb                | Live View | :hourglass: |
-| Todo app               | Live View | :hourglass: |
-| Random quote generator | Live View | :hourglass: |
-| Country quiz           | Live View | :hourglass: |
-| Weather app            | Live View | :hourglass: |
-| Github Jobs            | Live View | :hourglass: |
+| [Button component](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/01-button-component)        | [Live View](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/01-button-component/build/) | :white_check_mark: |
+| [Input component]()        | [Live View]() | :hourglass: |
+| [Windbnb]()                | [Live View]() | :hourglass: |
+| [Todo app](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/04-todo-app)               | [Live View](https://dev-challenges-todo.vercel.app/) | :white_check_mark: |
+| [Random quote generator](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/05-random-quote-generator) | [Live View](https://dev-challenges-random-quote.vercel.app/) | :white_check_mark: |
+| [Country quiz]()           | [Live View]() | :hourglass: |
+| [Weather app]()            | [Live View]() | :hourglass: |
+| [Github Jobs]()            | [Live View]() | :hourglass: |
