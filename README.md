@@ -28,7 +28,7 @@ Building websites with real-life practices
 | [Input component]()        | [Live View]() |
 | [Windbnb]()                | [Live View]() |
 | [Todo app](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/04-todo-app)               | [Live View](https://dev-challenges-todo.vercel.app/) |
-| [Random quote generator](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/05-random-quote-generator) | [Live View](https://dev-challenges-quote.vercel.app/) |
+| [Random quote generator](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/05-random-quote-generator) | [Live View](https://dev-challenges-random-quote.vercel.app/) |
 | [Country quiz]()           | [Live View]() |
 | [Weather app]()            | [Live View]() |
 | [Github Jobs]()            | [Live View]() |
