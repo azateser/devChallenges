@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "static": "next build && next export && touch ./out/.nojekyll && echo 'www.mywebsite.com' > ./out/CNAME",
+    "static": "next build && next export && touch ./out/.nojekyll && gh-pages -d out -t true",
     "start": "next start",
     "lint": "next lint"
   },
