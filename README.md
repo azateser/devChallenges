@@ -32,3 +32,14 @@ Building websites with real-life practices
 | [Country quiz]()           | [Live View]() | :hourglass: |
 | [Weather app]()            | [Live View]() | :hourglass: |
 | [Github Jobs]()            | [Live View]() | :hourglass: |
+
+
+| Button component       | Demo      | Status      |
+|------------------------|-----------|-------------|
+| Input component        | Live View | :hourglass: |
+| Windbnb                | Live View | :hourglass: |
+| Todo app               | Live View | :hourglass: |
+| Random quote generator | Live View | :hourglass: |
+| Country quiz           | Live View | :hourglass: |
+| Weather app            | Live View | :hourglass: |
+| Github Jobs            | Live View | :hourglass: |
