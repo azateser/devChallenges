@@ -1,11 +1,11 @@
 # Images
 
-#### 404 Page
+#### My team page
 ![image](./readme-assets/team.png)
 
 ## Demo
 
-`Live Preview:` [My team page](https://dev-challenges-404-not-found-one.vercel.app/)
+`Live Preview:` [My team page](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/02-my-team-page/out/)
 
 
 # Install

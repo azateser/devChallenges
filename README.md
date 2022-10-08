@@ -25,7 +25,7 @@ Building websites with real-life practices
 | Responsive Web Developer       | Demo      | Status      |
 |------------------------|-----------|-------------|
 | [404 Not Found](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/01-404-not-found)       | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/02-my-team-page/out/) | :white_check_mark: |
-| [My team page]()        | [Live View]() | :hourglass: |
+| [My team page](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/02-my-team-page)        | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/02-my-team-page/out/) | :white_check_mark: |
 | [Interior Consultant]()                | [Live View]() | :hourglass: |
 | [Recipe page]()               | [Live View]() | :hourglass: |
 | [My Gallery]() | [Live View]() | :hourglass: |
