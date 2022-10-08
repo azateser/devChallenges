@@ -5,7 +5,7 @@
 
 ## Demo
 
-`Live Preview:` [404 Not Found](https://dev-challenges-404-not-found-one.vercel.app/)
+`Live Preview:` [404 Not Found](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/02-my-team-page/out/)
 
 
 # Install
