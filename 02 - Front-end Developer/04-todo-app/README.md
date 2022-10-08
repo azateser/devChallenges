@@ -1,3 +1,21 @@
+# Images
+
+#### All State
+![image](./readme-assets/1-all.png)
+
+#### Active State
+![image](./readme-assets/2-active.png)
+
+#### Complated State
+![image](./readme-assets/3-complated.png)
+
+## Demo
+
+`Live Preview: [Button Component](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/01-button-component/build/)`
+
+
+# Install
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
