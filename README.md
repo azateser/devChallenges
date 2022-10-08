@@ -24,7 +24,7 @@ Building websites with real-life practices
 
 | Responsive Web Developer       | Demo      | Status      |
 |------------------------|-----------|-------------|
-| [404 Not Found]()       | [Live View]() | :hourglass: |
+| [404 Not Found](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/01-404-not-found)       | [Live View]() | :white_check_mark: |
 | [My team page]()        | [Live View]() | :hourglass: |
 | [Interior Consultant]()                | [Live View]() | :hourglass: |
 | [Recipe page]()               | [Live View]() | :hourglass: |
