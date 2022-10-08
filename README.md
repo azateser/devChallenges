@@ -22,19 +22,21 @@ Building websites with real-life practices
 🚫 Do not copy existing solutions
 
 
-| Responsive Web Developer       | Demo | | Status |
-|------------------------|-----------|----|
-| [Button component](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/01-button-component)        | [Live View](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/01-button-component/build/) |
-| [Input component]()        | [Live View]() | :white_check_mark: |
-| [Windbnb]()                | [Live View]() | :hourglass: |
-| [Todo app](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/04-todo-app)               | [Live View](https://dev-challenges-todo.vercel.app/) | :white_check_mark: |
-| [Random quote generator](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/05-random-quote-generator) | [Live View](https://dev-challenges-random-quote.vercel.app/) | :white_check_mark: |
-| [Country quiz]()           | [Live View]() | :hourglass: |
-| [Weather app]()            | [Live View]() | :hourglass: |
-| [Github Jobs]()            | [Live View]() | :hourglass: |
+| Responsive Web Developer       | Demo      | Status      |
+|------------------------|-----------|-------------|
+| [404 Not Found]()       | [Live View]() | :hourglass: |
+| [My team page]()        | [Live View]() | :hourglass: |
+| [Interior Consultant]()                | [Live View]() | :hourglass: |
+| [Recipe page]()               | [Live View]() | :hourglass: |
+| [My Gallery]() | [Live View]() | :hourglass: |
+| [Checkout Page]()           | [Live View]() | :hourglass: |
+| [Edie homepage]()            | [Live View]() | :hourglass: |
+| [Portfolio]()            | [Live View]() | :hourglass: |
+
+___
 
 
-| Button component       | Demo      | Status      |
+| Front-end Developer       | Demo      | Status      |
 |------------------------|-----------|-------------|
 | [Button component](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/01-button-component)        | [Live View](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/01-button-component/build/) | :white_check_mark: |
 | [Input component]()        | [Live View]() | :hourglass: |
@@ -44,3 +46,16 @@ Building websites with real-life practices
 | [Country quiz]()           | [Live View]() | :hourglass: |
 | [Weather app]()            | [Live View]() | :hourglass: |
 | [Github Jobs]()            | [Live View]() | :hourglass: |
+
+___
+
+| Full Stack Developer       | Demo      | Status      |
+|------------------------|-----------|-------------|
+| [Image Uploader]()       | [Live View]() | :hourglass: |
+| [My Unsplash]()        | [Live View]() | :hourglass: |
+| [CatWiki]()                | [Live View]() | :hourglass: |
+| [Authentication App]()               | [Live View]() | :hourglass: |
+| [Shoppingify]() | [Live View]() | :hourglass: |
+| [Chat Group]()           | [Live View]() | :hourglass: |
+| [Tweeter - Twitter Clone]()            | [Live View]() | :hourglass: |
+| [Thullo - Trello Clone]()            | [Live View]() | :hourglass: |
