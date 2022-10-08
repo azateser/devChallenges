@@ -7,6 +7,9 @@ const Home = () => {
     <React.Fragment>
       <Head>
       <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+      <meta http-equiv='cache-control' content='no-cache' /> 
+      <meta http-equiv='expires' content='0' /> 
+      <meta http-equiv='pragma' content='no-cache' />
       </Head>
 
       <div>
