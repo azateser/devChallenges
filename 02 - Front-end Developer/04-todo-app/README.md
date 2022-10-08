@@ -11,7 +11,7 @@
 
 ## Demo
 
-`Live Preview:` [Button Component](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/01-button-component/build/)
+`Live Preview:` [Todo App](https://dev-challenges-todo.vercel.app/)
 
 
 # Install
