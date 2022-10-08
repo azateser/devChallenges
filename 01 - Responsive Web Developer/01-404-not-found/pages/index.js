@@ -10,7 +10,7 @@ const Home = () => {
       </Head>
 
       <div>
-        <div className='font-inconsolata tracking-tighter lg:px-20 px-7 lg:py-9 py-5 text-2xl'>404 NOT FOUND</div>
+        <div className='font-inconsolata tracking-tighter lg:px-20 px-7 lg:py-9 py-5 text-2xl'>4041 NOT FOUND</div>
 
         <div className='flex lg:flex-row flex-col items-start justify-center lg:px-20 px-8 lg:my-40 my-10'>
           <div className='lg:w-2/3  w-full lg:pr-28'><img src="./Scarecrow.png" alt="Scarecrow" /></div>
