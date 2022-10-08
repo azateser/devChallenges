@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    color: #333333;
+}
+
+.font-inconsolata{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+}
