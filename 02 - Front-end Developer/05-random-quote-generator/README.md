@@ -1,3 +1,16 @@
+# Images
+
+#### Random quote
+![image](./readme-assets/1-random.png)
+
+#### All author quote
+![image](./readme-assets/2-author.png)
+
+## Demo
+
+`Live Preview:` [Button Component](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/01-button-component/build/)
+# Install
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
