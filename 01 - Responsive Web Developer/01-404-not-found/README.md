@@ -5,7 +5,7 @@
 
 ## Demo
 
-`Live Preview:` [404 Not Found](https://dev-challenges-404-not-found.vercel.app/)
+`Live Preview:` [404 Not Found](https://dev-challenges-404-not-found-one.vercel.app/)
 
 
 # Install
