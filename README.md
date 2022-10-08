@@ -22,13 +22,13 @@ Building websites with real-life practices
 🚫 Do not copy existing solutions
 
 
-| Responsive Web Developer       | Demo |
-|------------------------|-----------|
+| Responsive Web Developer       | Demo | | Status |
+|------------------------|-----------|----|
 | [Button component](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/01-button-component)        | [Live View](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/01-button-component/build/) |
-| [Input component]()        | [Live View]() |
-| [Windbnb]()                | [Live View]() |
-| [Todo app](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/04-todo-app)               | [Live View](https://dev-challenges-todo.vercel.app/) |
-| [Random quote generator](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/05-random-quote-generator) | [Live View](https://dev-challenges-random-quote.vercel.app/) |
-| [Country quiz]()           | [Live View]() |
-| [Weather app]()            | [Live View]() |
-| [Github Jobs]()            | [Live View]() |
+| [Input component]()        | [Live View]() | :white_check_mark: |
+| [Windbnb]()                | [Live View]() | :hourglass: |
+| [Todo app](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/04-todo-app)               | [Live View](https://dev-challenges-todo.vercel.app/) | :white_check_mark: |
+| [Random quote generator](https://github.com/azateser/devChallenges/tree/main/02%20-%20Front-end%20Developer/05-random-quote-generator) | [Live View](https://dev-challenges-random-quote.vercel.app/) | :white_check_mark: |
+| [Country quiz]()           | [Live View]() | :hourglass: |
+| [Weather app]()            | [Live View]() | :hourglass: |
+| [Github Jobs]()            | [Live View]() | :hourglass: |
