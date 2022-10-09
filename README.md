@@ -1,8 +1,15 @@
 # devChallanges
 
+### Responsive Web Developer
+Learn and Practice Responsive Web Development by building 8 Websites with given designs
+
+
 ### Front-end Developer
 Become Front-end Developer by building 8 real-life projects, you can use any Front-end frameworks
 
+
+### Full-stack Developer
+Become a Full-stack developer by building 8 advanced full-stack web applications
 
 #### For those who want to:
 Practice React, Vue, or other front-end libraries
