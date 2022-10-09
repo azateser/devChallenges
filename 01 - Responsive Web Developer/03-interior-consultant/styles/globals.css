@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    background: #181719;
+}
+
+.font-lora{
+    font-family: 'Lora', serif;
+}
+
+.font-crimson{
+    font-family: 'Crimson Pro', serif;
+    font-weight: 200;
+}
