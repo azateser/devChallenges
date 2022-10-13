@@ -1,6 +1,7 @@
 # Images
 
-#### Interior Consultant Page
+#### My Gallery
+
 ![image](./readme-assets/site1.png)
 
 ## Demo

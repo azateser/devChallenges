@@ -1,6 +1,6 @@
 # Images
 
-#### Interior Consultant Page
+#### Recipe Page
 ![image](./readme-assets/site1.png)
 ![image](./readme-assets/site2.png)
 ![image](./readme-assets/site3.png)
