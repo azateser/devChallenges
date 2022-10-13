@@ -35,7 +35,7 @@ Building websites with real-life practices
 | [My team page](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/02-my-team-page)        | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/02-my-team-page/out/) | :white_check_mark: |
 | [Interior Consultant](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/03-interior-consultant)                | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/03-interior-consultant/out/) | :white_check_mark: |
 | [Recipe page](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/04-recipe-page)               | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/04-recipe-page/out/) | :white_check_mark: |
-| [My Gallery]() | [Live View]() | :hourglass: |
+| [My Gallery](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/05-my-gallery) | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/05-my-gallery/out/) | :white_check_mark: |
 | [Checkout Page]()           | [Live View]() | :hourglass: |
 | [Edie homepage]()            | [Live View]() | :hourglass: |
 | [Portfolio]()            | [Live View]() | :hourglass: |
