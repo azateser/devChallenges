@@ -11,7 +11,7 @@ const Home = () => {
     <Head>
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@800&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet"></link>
     </Head>
-
+    
     <div className='md:p-12 p-6'>
       
       <div className='flex justify-between items-center'>
