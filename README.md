@@ -37,7 +37,7 @@ Building websites with real-life practices
 | [Recipe page](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/04-recipe-page)               | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/04-recipe-page/out/) | :white_check_mark: |
 | [My Gallery](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/05-my-gallery) | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/05-my-gallery/out/) | :white_check_mark: |
 | [Checkout Page](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/06-checkout-page)           | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/06-checkout-page/out/) | :white_check_mark: |
-| [Edie homepage]()            | [Live View]() | :hourglass: |
+| [Edie homepage](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/07-edie-homepage)            | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/07-edie-homepage/out/) | :white_check_mark: |
 | [Portfolio]()            | [Live View]() | :hourglass: |
 
 ___
