@@ -40,6 +40,8 @@ Building websites with real-life practices
 | [Edie homepage](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/07-edie-homepage)            | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/07-edie-homepage/out/) | :white_check_mark: |
 | [Portfolio](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/08-portfolio)            | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/08-portfolio/out/) | :white_check_mark: |
 
+Responsive Web Developer Certificate (✅) = [VEİW](https://devchallenges.io/certificates/rqKWYmi3eXDrKmh1iaoZ)
+
 ___
 
 
