@@ -219,7 +219,6 @@ const Home = () => {
   }
 
   useEffect(() => {
-    console.log(stays)
     if(search === 1){
       setStays(stays.filter((item) => item.city === filter.location && filter.guests.adults + filter.guests.children <= item.maxGuests));
       setSearch(0);
@@ -231,13 +230,11 @@ const Home = () => {
   }, [filter]);
 
 
-  console.log(search)
-
   return (
     <React.Fragment>
     <Head>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Mulish:wght@400;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"></link>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
     </Head>
 
     <div className='xl:max-w-[78rem] lg:max-w-5xl md:max-w-3xl md:py-8 py-5 md:px-0 px-4 m-auto'>
