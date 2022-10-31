@@ -6,7 +6,7 @@
 
 ## Demo
 
-`Live Preview:` [Windbnb](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/03-windbnb)
+`Live Preview:` [Windbnb](https://azateser.github.io/devChallenges/02%20-%20Front-end%20Developer/03-windbnb/out/)
 
 
 # Install
