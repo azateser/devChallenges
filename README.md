@@ -29,7 +29,22 @@ Building websites with real-life practices
 🚫 Do not copy existing solutions
 
 
+
 | Responsive Web Developer       | Demo      | Status      |
+|------------------------|-----------|-------------|
+| [Minimal Blog Card](#)       | [Live View](#) | :white_check_mark: |
+| [Business Blog Card](#)        | [Live View](#) | :white_check_mark: |
+| [Testimonial Page](#)                | [Live View](#) | :white_check_mark: |
+| [Contact Page](#)               | [Live View](#) | :white_check_mark: |
+| [Simple Homepage - Alarado](#) | [Live View](#) | :white_check_mark: |
+| [Checkout Page](#)           | [Live View](#) | :white_check_mark: |
+| [Edie homepage](#)            | [Live View](#) | :white_check_mark: |
+| [Portfolio](#)            | [Live View](#) | :white_check_mark: |
+
+Responsive Web Developer Certificate (✅) = [View Certificate](https://legacy.devchallenges.io/certificates/rqKWYmi3eXDrKmh1iaoZ)
+
+
+| Logacy Responsive Web Developer       | Demo      | Status      |
 |------------------------|-----------|-------------|
 | [404 Not Found](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/01-404-not-found)       | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/01-404-not-found/out/) | :white_check_mark: |
 | [My team page](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/02-my-team-page)        | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/02-my-team-page/out/) | :white_check_mark: |
@@ -40,7 +55,7 @@ Building websites with real-life practices
 | [Edie homepage](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/07-edie-homepage)            | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/07-edie-homepage/out/) | :white_check_mark: |
 | [Portfolio](https://github.com/azateser/devChallenges/tree/main/01%20-%20Responsive%20Web%20Developer/08-portfolio)            | [Live View](https://azateser.github.io/devChallenges/01%20-%20Responsive%20Web%20Developer/08-portfolio/out/) | :white_check_mark: |
 
-Responsive Web Developer Certificate (✅) = [View Certificate](https://devchallenges.io/certificates/rqKWYmi3eXDrKmh1iaoZ)
+Responsive Web Developer Certificate (✅) = [View Legacy Certificate](https://legacy.devchallenges.io/certificates/rqKWYmi3eXDrKmh1iaoZ)
 
 ___
 
