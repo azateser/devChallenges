@@ -32,16 +32,13 @@ Building websites with real-life practices
 
 | Responsive Web Developer       | Demo      | Status      |
 |------------------------|-----------|-------------|
-| [Minimal Blog Card](#)       | [Live View](#) | :white_check_mark: |
-| [Business Blog Card](#)        | [Live View](#) | :white_check_mark: |
-| [Testimonial Page](#)                | [Live View](#) | :white_check_mark: |
-| [Contact Page](#)               | [Live View](#) | :white_check_mark: |
-| [Simple Homepage - Alarado](#) | [Live View](#) | :white_check_mark: |
-| [Checkout Page](#)           | [Live View](#) | :white_check_mark: |
-| [Edie homepage](#)            | [Live View](#) | :white_check_mark: |
-| [Portfolio](#)            | [Live View](#) | :white_check_mark: |
+| [Minimal Blog Card](https://github.com/azateser/devChallenges/tree/main/1%20-%20Responsive%20Web%20Developer/01%20-%20Minimal%20Blog%20Card)       | [Live View](https://azateser.github.io/devChallenges/1%20-%20Responsive%20Web%20Developer/01%20-%20Minimal%20Blog%20Card/index.html) | :white_check_mark: |
+| [Business Blog Card](#)        | [Live View](#) | :hourglass: |
+| [Testimonial Page](#)                | [Live View](#) | :hourglass: |
+| [Contact Page](#)               | [Live View](#) | :hourglass: |
+| [Simple Homepage - Alarado](#) | [Live View](#) | :hourglass: |
 
-Responsive Web Developer Certificate (✅) = [View Certificate](https://legacy.devchallenges.io/certificates/rqKWYmi3eXDrKmh1iaoZ)
+Responsive Web Developer Certificate (✅) = [View Certificate](#)
 
 
 | Logacy Responsive Web Developer       | Demo      | Status      |
