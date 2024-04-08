@@ -33,7 +33,7 @@ Building websites with real-life practices
 | Responsive Web Developer       | Demo      | Status      |
 |------------------------|-----------|-------------|
 | [Minimal Blog Card](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/01%20-%20Minimal%20Blog%20Card)       | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/01%20-%20Minimal%20Blog%20Card/index.html) | :white_check_mark: |
-| [Business Blog Card](#)        | [Live View](#) | :hourglass: |
+| [Business Blog Card](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/02%20-%20Business%20Blog%20Card)        | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/02%20-%20Business%20Blog%20Card/index.html) | :white_check_mark: |
 | [Testimonial Page](#)                | [Live View](#) | :hourglass: |
 | [Contact Page](#)               | [Live View](#) | :hourglass: |
 | [Simple Homepage - Alarado](#) | [Live View](#) | :hourglass: |
