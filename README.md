@@ -34,7 +34,7 @@ Building websites with real-life practices
 |------------------------|-----------|-------------|
 | [Minimal Blog Card](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/01%20-%20Minimal%20Blog%20Card)       | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/01%20-%20Minimal%20Blog%20Card/index.html) | :white_check_mark: |
 | [Business Blog Card](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/02%20-%20Business%20Blog%20Card)        | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/02%20-%20Business%20Blog%20Card/index.html) | :white_check_mark: |
-| [Testimonial Page](#)                | [Live View](#) | :hourglass: |
+| [Testimonial Page](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/03%20-%20Testimonial%20Page)                | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/03%20-%20Testimonial%20Page/index.html) | :white_check_mark: |
 | [Contact Page](#)               | [Live View](#) | :hourglass: |
 | [Simple Homepage - Alarado](#) | [Live View](#) | :hourglass: |
 

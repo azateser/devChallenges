@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  align-items: center;
+  background-color: #fafaf9;
+  display: flex;
+  font-family: "Sora", sans-serif;
+}
+
+.container {
+  display: flex;
+  gap: 32px;
+  margin: auto;
+  margin-top: 162px;
+  max-width: 1136px;
+  width: 100%;
+}
+
+/* LEft */
+
+.left {
+  width: 50%;
+}
+
+.left > .star-icon {
+  align-items: center;
+  background: #f5c044;
+  border-radius: 50%;
+  display: flex;
+  font-size: 24px;
+  height: 46px;
+  justify-content: center;
+  width: 46px;
+}
+
+.left > .content h1 {
+  color: #18181b;
+  font-size: 36px;
+  letter-spacing: -0.6px;
+  margin-top: 16px;
+}
+
+.left > .content p {
+  color: #52525a;
+  font-size: 20px;
+  letter-spacing: -0.2px;
+  line-height: 1.74;
+  margin-top: 12px;
+  max-width: 95%;
+}
+
+.left > .list {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  list-style: none;
+  margin-top: 32px;
+}
+
+.left > .list li {
+  align-items: center;
+  color: #52525a;
+  display: flex;
+  font-size: 14px;
+  font-weight: 400;
+  gap: 8px;
+  letter-spacing: -0.13px;
+}
+
+/* Right */
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 8px;
+  width: 50%;
+}
+
+.right > .review-box:nth-child(1) {
+  align-self: flex-end;
+}
+
+.right > .review-box:nth-child(2) {
+  align-self: flex-start;
+}
+
+.right > .review-box {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.04);
+  height: 132px;
+  padding: 28px 40px;
+  width: 276px;
+}
+
+.right > .review-box .title {
+  display: flex;
+  gap: 20px;
+}
+
+.right > .review-box .title .logo {
+  width: 85px;
+}
+
+.right > .review-box .title .stars {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+}
+
+.right > .review-box .content {
+  margin-top: 16px;
+}
+
+.right > .review-box .content h3 {
+  color: #18181b;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.right > .review-box .content p {
+  color: #52525a;
+  line-height: 1.5;
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 1160px) {
+  .container {
+    flex-direction: column;
+    margin-bottom: 40px;
+    padding: 0 24px;
+  }
+  .left {
+    width: 100%;
+  }
+  .right {
+    gap: 24px;
+    width: 100%;
+  }
+}
