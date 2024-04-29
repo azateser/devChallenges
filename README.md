@@ -36,7 +36,7 @@ Building websites with real-life practices
 | [Business Blog Card](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/02%20-%20Business%20Blog%20Card)        | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/02%20-%20Business%20Blog%20Card/index.html) | :white_check_mark: |
 | [Testimonial Page](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/03%20-%20Testimonial%20Page)                | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/03%20-%20Testimonial%20Page/index.html) | :white_check_mark: |
 | [Contact Page](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/04-%20Contact%20Page)               | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/04-%20Contact%20Page/index.html) | :white_check_mark: |
-| [Simple Homepage - Alarado](#) | [Live View](#) | :hourglass: |
+| [Simple Homepage - Alarado](https://github.com/azateser/devChallenges/tree/main/01.1%20-%20Responsive%20Web%20Developer/05%20-%20Simple%20Homepage) | [Live View](https://azateser.github.io/devChallenges/01.1%20-%20Responsive%20Web%20Developer/05%20-%20Simple%20Homepage/index.html) | :white_check_mark: |
 
 Responsive Web Developer Certificate (✅) = [View Certificate](#)
 

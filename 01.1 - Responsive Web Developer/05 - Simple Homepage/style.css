@@ -1,0 +1,251 @@
+* {
+  border: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f2f9fe;
+  font-family: "Poppins", sans-serif;
+  margin: 0 auto;
+  max-width: 1136px;
+  transition: all 350ms ease-in-out;
+}
+
+/* Header Start */
+
+header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 28px;
+}
+
+header .menu {
+  align-items: center;
+  color: #909193;
+  display: flex;
+  font-size: 14px;
+  font-weight: 500;
+  gap: 40px;
+  list-style: none;
+  margin-right: 62px;
+  transition: all 350ms ease-in-out;
+}
+
+header .menu li:hover {
+  color: #223344;
+  cursor: pointer;
+  transition: all 350ms ease-in-out;
+}
+
+header .menu .active {
+  color: #223344;
+}
+
+header .switch {
+  background: #223343;
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: space-around;
+  position: relative;
+  user-select: none;
+  width: 48px;
+}
+
+header .switch img {
+  z-index: 10;
+}
+
+header .switch::before {
+  background: white;
+  border-radius: 50%;
+  content: "";
+  height: 20px;
+  position: absolute;
+  right: 2px; /* bu satırı sil */
+  top: 2px;
+  transition: right 0.5s; /* transition'u sağa kaydırmak için "right" olarak değiştir */
+  width: 20px;
+}
+
+/* Yeni stil, beforu sağa kaydırmak için */
+header .switch.dark::before {
+  right: calc(100% - 2px - 20px); /* sağa kaydırılan değer */
+}
+
+/* Header End */
+
+/* Main Start */
+
+main {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 92px;
+}
+
+main .content {
+  width: 40%;
+}
+
+main .content h4 {
+  color: #223344;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  margin-bottom: 14px;
+  text-transform: uppercase;
+  transition: all 350ms ease-in-out;
+}
+
+main .content h1 {
+  color: #223344;
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 1.3px;
+  line-height: 1.58;
+  margin-bottom: 34px;
+  transition: all 350ms ease-in-out;
+}
+
+main .content p {
+  color: #909193;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.2px;
+}
+
+main .content .buttons-wrapper {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  margin-top: 20px;
+}
+
+main .content .buttons-wrapper .button {
+  background: #223344;
+  border-radius: 12px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  padding: 17px 30px;
+}
+
+main .content .buttons-wrapper .button.primary {
+  background-color: #2a4dd0;
+  color: white;
+  text-transform: uppercase;
+  transition: all 350ms ease-in-out;
+}
+
+main .content .buttons-wrapper .button.primary:hover {
+  background-color: #1e3ca5;
+}
+
+main .content .buttons-wrapper .button.text {
+  background: none;
+  color: #2a4dd0;
+  text-decoration: underline;
+  transition: all 350ms ease-in-out;
+}
+
+main .content .buttons-wrapper .button.text:hover {
+  background-color: rgba(30, 59, 165, 0.05);
+}
+
+main .content .list-wrapper {
+  margin-top: 40px;
+}
+
+main .content .list-wrapper ul {
+  align-items: center;
+  color: #909193;
+  display: flex;
+  font-size: 14px;
+  gap: 20px;
+  list-style: none;
+}
+
+main .content .list-wrapper li {
+  align-items: center;
+  display: flex;
+  gap: 6px;
+}
+
+main .hero-image {
+  width: 50%;
+}
+
+main .hero-image img {
+  width: 580px;
+}
+
+/* Main End */
+
+/* Dark Mode */
+
+body.dark {
+  background-color: #111729;
+  color: #fff;
+}
+
+body.dark header .menu {
+  color: #909193;
+}
+
+body.dark header .menu li:hover {
+  color: #ffffff;
+}
+
+body.dark header .menu .active {
+  color: #ffffff;
+}
+
+body.dark header .switch {
+  background: #223343;
+}
+
+body.dark main .content h4 {
+  color: #ffffff;
+}
+
+body.dark main .content h1 {
+  color: #ffffff;
+}
+
+@media only screen and (max-width: 1200px) {
+  body {
+    padding: 0 20px;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  header .menu {
+    display: none;
+  }
+
+  main {
+    flex-direction: column-reverse;
+    gap: 40px;
+  }
+
+  main .content {
+    width: 100%;
+  }
+
+  main .hero-image {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  main .hero-image img {
+    width: 80%;
+  }
+}
